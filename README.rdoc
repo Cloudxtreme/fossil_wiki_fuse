@@ -1,0 +1,13 @@
+= RDoc::Readme - Extract high-level RDOC for use in a README file
+
+== Install this gem
+
+    gem install fossil_wiki_rfusefs
+
+== Launch your fossil server
+
+    fossil server
+
+== Start your mount point
+
+    fossil_wiki_rfusefs /path/to/mnt

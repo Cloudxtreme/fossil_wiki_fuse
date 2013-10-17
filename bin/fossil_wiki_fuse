@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require 'rfusefs'
+require 'fossil_wiki_fuse'
+FuseFS.start(FossilWikiFuse.new, *ARGV)
