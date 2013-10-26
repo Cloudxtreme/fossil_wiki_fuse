@@ -6,6 +6,6 @@
 
     fossil server
 
-== Start your mount point
+== Start your mount point in your fossil directory
 
     fossil_wiki_rfusefs /path/to/mnt
