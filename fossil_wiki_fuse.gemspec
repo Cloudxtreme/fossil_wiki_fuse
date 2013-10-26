@@ -10,8 +10,6 @@ Gem::Specification.new do |s|
   s.license     = 'MIT'
   s.add_runtime_dependency "rfusefs", [">= 0"]
   s.executables << 'fossil_wiki_fuse'
-  group :test do
-      s.add_runtime_dependency "mocha", [">= 0"]
-      s.add_runtime_dependency "rake", [">= 0"]
-  end
+  s.add_runtime_dependency "mocha", [">= 0"]
+  s.add_runtime_dependency "rake", [">= 0"]
 end

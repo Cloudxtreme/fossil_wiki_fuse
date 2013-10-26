@@ -1,1 +1,1 @@
-fossil_wiki_fuse.gemspec
+gemspec
