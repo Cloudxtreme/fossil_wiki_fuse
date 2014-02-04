@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'fossil_wiki_fuse'
-  s.version     = '0.0.1'
+  s.version     = '0.0.2'
   s.date        = '2013-10-17'
   s.summary     = 'fossil wiki fuse'
   s.description = 'mount your fossil scm wiki on your filesystem'
